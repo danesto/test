@@ -1,7 +1,7 @@
 # SETUP INSTRUCTIONS
 <ul> 
   <li> On Xampp turn on Apache and MySQL (if on windows). On linux create virtual host </li>
-  <li> Download database from root of this git repo </li>
+  <li> Download test.sql database from root of this git repo </li>
   <li> Name database "test". Or change database credentials if needed in /config/.env - file, (DBNAME, Server, Username, Password) </li>
 </ul>
 
