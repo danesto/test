@@ -16,3 +16,4 @@
 # Admin section
 ## Access admin page by typing "/admin" inside of URL
 There is a list of disabled comments which admin needs to approve in order for them to be displayed on home page
+When admin approves a comment, comment is then displayed on home page
