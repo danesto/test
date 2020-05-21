@@ -1,0 +1,21 @@
+.product {
+    padding-bottom: 10px;
+    background: #fff;
+}
+
+.product img{
+    max-width: 100%;
+    height: 200px;
+}
+
+.comment{
+    padding: 20px;
+    background: #fff;
+    margin-top: 30px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.comment-user p {
+    font-weight: bold;
+}
