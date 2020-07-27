@@ -1,3 +1,5 @@
+# PHP simple college TEST / edu purposes only
+### test is coded to represent simple knowledge of PHP and MySql (CRUD operations)
 # SETUP INSTRUCTIONS
 <ul> 
   <li> On Xampp turn on Apache and MySQL (if on windows). On linux create virtual host </li>
